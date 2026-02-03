@@ -1,2 +1,2 @@
-# Placeholder
-https://www.notion.so/5-RNN-2ee2cea9df93801ba14ef64f6908c141?source=copy_link
+> > 노션 정리
+> > **https://www.notion.so/4-2e606d90d27380e794f6d67f1b53b057?source=copy_link**
